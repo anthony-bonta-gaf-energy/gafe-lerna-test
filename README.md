@@ -14,10 +14,10 @@ yarn install
 
 * Create any change in packages/package-a
 * Commit the changes with the comment "docs!: did some update"
-* Run 
+* Run
 
 ```sh
-npx lerna version --conventional-commits
+yarn bump
 ```
 
 ## Expected results
