@@ -22,11 +22,11 @@ npx lerna version --conventional-commits
 
 ## Expected results
 
-The major version is updated from 5.0.9 to 6.0.0
+The major version is updated from 5.0.10 to 6.0.0
 
 ## Actual Results
 
-The version is updated to 5.0.9
+The version is updated to 5.0.11
 
 ## Additional Notes
 
