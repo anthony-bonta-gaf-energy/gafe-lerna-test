@@ -13,13 +13,14 @@
     "packages/*"
   ],
   "scripts": {
+    "version": "lerna version --conventional-commits",
     "postinstall": "husky"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.4.1",
     "@commitlint/config-conventional": "^20.4.1",
     "husky": "^9.1.7",
-    "lerna": "^7.0.0"
+    "lerna": "^9.0.4"
   },
   "packageManager": "yarn@4.12.0"
 }
