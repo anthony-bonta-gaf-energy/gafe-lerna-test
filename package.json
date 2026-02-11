@@ -13,7 +13,7 @@
     "packages/*"
   ],
   "scripts": {
-    "version": "lerna version --conventional-commits",
+    "bump": "lerna version --conventional-commits",
     "postinstall": "husky"
   },
   "devDependencies": {
