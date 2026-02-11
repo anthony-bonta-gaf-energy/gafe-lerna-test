@@ -1,0 +1,25 @@
+{
+  "name": "lerna-version-bug",
+  "description": "Demo of lerna versioning bug.",
+  "author": "Anthony Bonta",
+  "license": "UNLICENSED",
+  "type": "module",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/standardindustries/gafe-helix"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "postinstall": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.4.1",
+    "@commitlint/config-conventional": "^20.4.1",
+    "husky": "^9.1.7",
+    "lerna": "^9.0.4"
+  },
+  "packageManager": "yarn@4.12.0"
+}

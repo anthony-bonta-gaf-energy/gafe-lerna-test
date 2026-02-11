@@ -1,0 +1,10 @@
+{
+  "name": "package-b",
+  "version": "5.0.9",
+  "author": "GAF Energy",
+  "description": "Package B has no changes but is dependent on package A",
+  "type": "module",
+  "dependencies": {
+    "package-a": "5.0.9"
+  }
+}
