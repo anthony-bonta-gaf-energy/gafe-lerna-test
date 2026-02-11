@@ -19,7 +19,7 @@
     "@commitlint/cli": "^20.4.1",
     "@commitlint/config-conventional": "^20.4.1",
     "husky": "^9.1.7",
-    "lerna": "8.2.4"
+    "lerna": "^7.0.0"
   },
   "packageManager": "yarn@4.12.0"
 }
