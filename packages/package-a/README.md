@@ -1,12 +1,5 @@
 # Description
 
-Helix JS is a library for framework independent functions, models, and helpers.
+Package A should contain the breaking change.
 
-## Installation
 
-```sh
-# NPM
-npm i @gafe/helix-js
-# Yarn
-yarn install @gafe/helix-js
-```
